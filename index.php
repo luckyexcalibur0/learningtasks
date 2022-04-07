@@ -9,7 +9,7 @@
     
     <ul>
       <li> <a href="index.php"> Home </a> </li>
-      <li> <a href="/LT2/index.html"> Learning Task 2 </a> </li>
+      <li> <a href="/LT2/Index.html"> Learning Task 2 </a> </li>
     
   </body>
  
