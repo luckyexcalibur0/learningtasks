@@ -1,0 +1,92 @@
+<! DOCTYPE html>
+<html>
+<head> <title> Interactive Map </title> </head>
+<style>
+
+
+
+.button {
+  border: none;
+  color: white;
+  padding: 32px 64px;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  }
+  
+ .button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid;
+  margin-left: 300px;
+  margin-top: 120px;
+}
+
+.button1:hover {
+  background-color: #5CFFF7;
+  color: white;
+}
+
+.button2 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid;
+}
+
+.button2:hover {
+  background-color: #FF3333;
+  color: white;
+}
+.button3 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid;
+}
+
+.button3:hover {
+  background-color: #3ECB25;
+  color: white;
+}
+
+
+body {
+  background-image: url('Map.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+p {
+	
+	margin-top: 10px;
+	margin-right: 200px;
+	font-size: 34px;
+}
+
+</style>
+<body>
+
+<p style="font-family: times, serif; font-size:14pt; font-style:italic; font-size: 40px; color: white">
+ The Map of League of Legends Universe</p>
+<h3 id="id1"> Once upon a time, a powerful being named Aurelion Sol crafted a plane of existence made from solid 
+fragents of stars in order give life in this land. Pinched a portion of it and thus became the steepest mountain, stepped on a part of it and 
+thus became an extention of the ocean, and game power to those who strive to protect this land. many years have past and the abuse of 
+power occured... Three tribes strive to give order across the vast land. The land has been molded with thousands of stories, lores, and legends
+open you eyes and ears to this universe</h3>
+
+<button class="button button1">Demacia</button>
+ 
+<button class="button button2">Noxus</button> 
+
+<button class="button button3">Ixtal</button> 
+
+<button type="button" 
+onclick="document.getElementById('id1').style.color = '#FFFB00'">
+Story</button>
+
+
+</body>
+
+</html>
