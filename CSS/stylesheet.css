@@ -1,0 +1,62 @@
+#bidshit{
+    width: 980px;
+    min-height: 650px;
+    margin: 0 auto;
+    border: 2px solid #00ff00;
+    border-radius: 20px;
+    background-color: #1b1b1b;}
+
+#ulunan{
+    width: 1800x;
+    height: 100px;
+    border: 2px solid #00ff00;
+    border-radius: 20px;
+    background-color: #040404;
+    margin: 0 auto;
+    margin: 3px;
+    text-align: center;}
+
+
+#nav{
+   width: 1800x;
+    height: 100px;
+    border-radius: 20px;
+    text-align: center;  }
+
+#nav ul{
+    list-style: none;
+    background: #1b1b1b;
+    padding: 10px;
+    text-align: center;
+    border-bottom: 2px solid #00ff00; }
+
+#nav li{ 
+    display: inline-block;
+    float: center;
+    background: #00ff00;
+    border-radius: 20px;/* himusa ni */}
+
+#nav a {
+    display:block;
+    width: 200px;
+    padding: 2px; }
+
+#nav a{
+    text-transform: uppercase;
+    margin: 10px;  }
+
+#nav a:link, #nav a:visited {
+    color: black;
+    text-decoration: underline;
+    background-color: #00ff00;  }
+
+
+#nav li:hover{
+    color: turquoise;
+    text-decoration: none;
+    background-color: turquoise; }
+
+#nav a:hover{
+    color: black;
+    text-decoration: none;
+    background-color: turquoise; }

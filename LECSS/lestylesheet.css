@@ -1,0 +1,60 @@
+#bidshit{
+    width: 980px;
+    
+    margin: 0 auto;
+    border: 2px solid #00ff00;
+    border-radius: 20px;
+    background-color: #1b1b1b;}
+
+#ulunan{
+    width: 1800x;
+    height: 100px;
+    border: 2px solid #00ff00;
+    border-radius: 20px;
+    background-color: #040404;
+    margin: 0 auto;
+    margin: 3px;
+    text-align: center;}
+
+
+#habol{
+    width: 1800x;
+    height: 570px;
+    border: 2px solid ;
+    border-radius: 20px;
+    background-color: #040404;
+    margin: 0 auto;
+    margin: 3px;}
+    
+
+
+#habol ul{
+    text-align: center;
+}
+
+#habol li{
+    color: white;
+    text-align: left;
+    border: 2px solid  #00ff00;
+    width: 1000x;
+    padding: 10px;
+    margin: 4px;
+    list-style: none;   
+    margin-left: -38px;
+    border-radius: 20px;
+}
+
+#habol a{
+    display: inline;
+    width: 200px;
+    padding: 2px;
+    text-transform: uppercase;
+    margin: 10px;
+    background-color: #00ff00;
+}
+
+#habol a:hover{
+    color: black;
+    text-decoration: none;
+    background-color: turquoise; }
+}
